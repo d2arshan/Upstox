@@ -1,0 +1,11 @@
+requests
+websocket-client
+pandas
+numpy
+plyer
+protobuf
+google
+Flask
+Flask-SocketIO
+python-dotenv
+eventlet
